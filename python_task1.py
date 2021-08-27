@@ -34,6 +34,8 @@ for i in range(1,no_of_overs+1):
 
 if your_runs>comp_score:
                 print("YOU WON THE MATCH")
+        elif:
+            print("MATCH DRAW")
 else:
                 print("COMPUTER WINS BETTER LUCK NEXT TIME!!!")
         
